@@ -1,0 +1,33 @@
+.header__serv {
+	display: flex;
+	flex-wrap: wrap;
+	height: 75px;
+}
+
+.logo__img {
+	width: 98px;
+	height: 42px;
+	display: inline-block;
+	margin-top: 30px;
+}
+
+.menu__header-menu {
+	display: flex;
+	flex-wrap: wrap;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 19px;
+}
+
+.contacts__header--servs {
+	margin-top: 26px;
+}
+
+.contacts__dropdown-title--serv {
+	margin-top: -5px;
+	margin-right: 3px;
+}
+
+.menu__link--serv {
+	margin-right: 54px;
+}
